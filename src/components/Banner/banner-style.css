@@ -1,0 +1,35 @@
+.banner{
+    background-image: url(../../img/banner.jpg);
+    height:50vh;
+    background-position:center;
+    background-size: center;
+    position: relative;
+}
+.banner__search{
+    display: flex;
+    flex-direction:column;
+}
+.banner__searchBtn{
+    background-color: #fff!important;
+    font-weight:900!important;
+    color: #ff7779!important;
+    text-transform:inherit;
+}
+.banner__info{
+    background:rgba(0,0,0,.95);
+    padding-top:20vh;
+    padding-left:40px;
+    padding-right:40px;
+    padding-bottom:40px;
+    width:300px;
+    color:#fff;
+}
+.banner__info > Button{
+    background-color: #ff7779;
+    color: #fff;
+    margin-top:10px;
+    text-transform: inherit;
+}
+.banner__info > h5{
+    margin-top:10px;
+}
