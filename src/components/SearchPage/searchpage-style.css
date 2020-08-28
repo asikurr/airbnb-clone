@@ -1,0 +1,17 @@
+.serchPage__info{
+    padding:25px;
+}
+.serchPage__info > p{
+    margin-bottom:10px;
+    font-size:14px
+}
+
+.serchPage__info > h1{
+    margin-bottom:30px;
+}
+
+.serchPage__info > button{
+    border-radius: 30px;
+    text-transform: inherit;
+    margin: 5px;
+}
